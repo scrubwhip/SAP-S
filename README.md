@@ -15,7 +15,7 @@ This
 
 ### SAPS Instruction Set
 
-<img src="Images/IS.png">
+<img src="Images/Ins.png">
 
 ## ROM
 
