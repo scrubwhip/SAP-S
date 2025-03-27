@@ -4,16 +4,6 @@
   <attributes/>
   <visualElements>
     <visualElement>
-      <elementName>Clock</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>CLK</string>
-        </entry>
-      </elementAttributes>
-      <pos x="0" y="300"/>
-    </visualElement>
-    <visualElement>
       <elementName>And</elementName>
       <elementAttributes>
         <entry>
@@ -104,16 +94,6 @@
       <pos x="40" y="-60"/>
     </visualElement>
     <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>en</string>
-        </entry>
-      </elementAttributes>
-      <pos x="0" y="340"/>
-    </visualElement>
-    <visualElement>
       <elementName>And</elementName>
       <elementAttributes>
         <entry>
@@ -122,26 +102,6 @@
         </entry>
       </elementAttributes>
       <pos x="40" y="100"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>Z</string>
-        </entry>
-      </elementAttributes>
-      <pos x="100" y="380"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>C</string>
-        </entry>
-      </elementAttributes>
-      <pos x="100" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>D_FF</elementName>
@@ -187,6 +147,46 @@
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="0" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Clock</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>CLK</string>
+        </entry>
+      </elementAttributes>
+      <pos x="0" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>en</string>
+        </entry>
+      </elementAttributes>
+      <pos x="0" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Z</string>
+        </entry>
+      </elementAttributes>
+      <pos x="100" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="100" y="460"/>
     </visualElement>
   </visualElements>
   <wires>
