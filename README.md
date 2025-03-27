@@ -1,4 +1,4 @@
-# SAPS (Simple-As-Possible-Shift)
+# SAP-S (Simple-As-Possible-Shift)
 A digital circuit representing a SAP architecture computer with an additional 4 ALUFN bits that implement SLL, SRA, SRL, and bitwise operations.
 
 <img src="Images/SAP-S.png">
