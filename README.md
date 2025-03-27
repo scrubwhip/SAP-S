@@ -7,12 +7,14 @@ For a general overview of the Simple-As-Possible architecture, please see my SAP
 
 This 
 
-## Instructions
+## RAM
 
 ### RAM limitations
 
 ### SAPS Instruction Set
 
-## ALU
+## ROM
 
-## 
+### SAPS Microinstructions
+
+## ALU
