@@ -9,6 +9,14 @@ For a general overview of the Simple-As-Possible architecture, please see my SAP
 
 This 
 
+## Example Program
+
+<img src="Images/Program.png">
+
+<img src="Images/example.png">
+
+<img src="Images/pseudo.png">
+
 ## RAM
 
 ### RAM limitations
