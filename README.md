@@ -9,7 +9,6 @@ For a general overview of the Simple-As-Possible architecture, please see my SAP
 
 The SAP-S architecture is very similar, except it:
 <ol>
-  <li>Eliminates the STA instruction (which can't be executed by my current SAP anyway)</li>
   <li>Adds an N bit flag from the ALU which checks if the result is positive (0) or negative(1)</li>
   <li>Adds 7 new arithmetic instructions: logical shift left, logical shift right, arithmetic shift right, bitwise and, bitwise or, bitwise xor, and bitwise nor.</li>
   <li>Adds 1 new jump instruction, JN, which executes a jump iff the result from the ALU is negative.</li>
